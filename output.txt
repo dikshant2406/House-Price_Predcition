@@ -1,0 +1,13 @@
+OUTPUTS ON DIFFERENT MODELS (on metric of root mean squared error)
+
+    1. Linear Regression :
+    Mean of scores : 5.030437102767303
+    standard deviation of scores : 1.0607661158294774
+    
+    2. Decisiontreeregression :
+    Mean of scores : 4.236046463862772
+    standard deviation of scores : 0.7955290400461055
+    
+    3. RandomForestRegressor :
+    Mean of scores : 3.2954789958428754
+   standard deviation of scores : 0.6915382387412548
